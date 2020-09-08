@@ -1,5 +1,7 @@
 # vue-skills
 
+![alt vuejs-sample-project](https://github.com/ehsanhoushmand/vuejs-sample-project/blob/master/public/vuejs.png)
+
 ## Project setup
 ```
 npm install
